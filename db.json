@@ -1,0 +1,36 @@
+{
+    "devs" : [
+        {
+             "id"       : 1,
+             "name"     : "opu",
+             "age"      : 22,
+             "skill"    : "javaScript",
+             "location" : "dhaka",
+             "photo"    : "https://rnbtheme.com/shortcodes/wp-content/uploads/2016/01/First_m-500x622.png"
+        },
+        {
+            "id"       : 2,
+            "name"     : "meheraz",
+            "age"      : 32,
+            "skill"    : "php",
+            "location" : "chandper",
+            "photo"    : "https://www.alhaya-medical.com/wp-content/uploads/2017/11/team-member.jpg"
+       },
+       {
+            "id"       : 3,
+            "name"     : "javed",
+            "age"      : 34,
+            "skill"    : "python",
+            "location" : "cumilla",
+            "photo"    : "https://savoy-webstack.netdna-ssl.com/wp-content/uploads/2015/08/team-member-2.jpg"
+   },
+   {
+            "id"       : 4,
+            "name"     : "muhin",
+            "age"      : 24,
+            "skill"    : "javaScript",
+            "location" : "dhaka",
+            "photo"    : "https://acmeskid.com/wp-content/uploads/2015/01/team-member-04.jpg"
+}
+    ]
+}

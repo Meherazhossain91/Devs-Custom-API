@@ -1,0 +1,14 @@
+{
+  "name": "team-member-api",
+  "version": "1.0.0",
+  "description": "This is developer team api for react and apps development",
+  "main": "index.js",
+  "scripts": {
+    "js" : "json-server --watch db.json --port 5050"
+  },
+  "author": "opu27",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
